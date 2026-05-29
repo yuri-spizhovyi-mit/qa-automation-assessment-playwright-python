@@ -79,7 +79,7 @@ qa-automation-assessment-playwright-python/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yspizhoviy/qa-automation-assessment-playwright-python.git
+git clone https://github.com/yuri-spizhovyi-mit/qa-automation-assessment-playwright-python.git
 cd qa-automation-assessment-playwright-python
 ```
 
